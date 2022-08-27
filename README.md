@@ -17,15 +17,22 @@ A curated list of awesome Diffusion notebooks, tools, software, tutorials and re
 * [Huemin Jax Diffusion](https://colab.research.google.com/github/huemin-art/jax-guided-diffusion/blob/v2.7/Huemin_Jax_Diffusion_2_7.ipynb) - description will be defined
 * [Stable Diffusion Interpolation](https://colab.research.google.com/drive/1EHZtFjQoRr-bns1It5mTcOVyZzZD9bBc?usp=sharing) - description will be defined
 
+https://github.com/omriav/blended-diffusion
+
 ## Repos
 * [disco-diffusion](https://github.com/alembics/disco-diffusion) - description will be defined
 * [stable-diffusion](https://github.com/CompVis/stable-diffusion) - description will be defined
-* [latent-diffusion](https://github.com/CompVis/latent-diffusion) - description will be defined
+* [latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 * [guided-diffusion](https://github.com/openai/guided-diffusion) - description will be defined
+* [blended-diffusion](https://github.com/lucidrains/denoising-diffusion-pytorch) - Blended Diffusion for Text-driven Editing of Natural Images
 * [denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch) - description will be defined
 
-## Papers
+
 ## Tools
-* [flowframes](https://github.com/n00mkrad/flowframes) - description will be defined
+* [flowframes](https://github.com/n00mkrad/flowframes) - Flowframes Windows GUI for video interpolation using DAIN (NCNN) or RIFE (CUDA/NCNN)
+* [diffusers](https://github.com/huggingface/diffusers) - State-of-the-art diffusion models for image and audio generation in PyTorch
+* [real-esrgan](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
+* [discoart](https://github.com/jina-ai/discoart) - Create Disco Diffusion artworks in one line
 
 ## Tutorials
+## Papers

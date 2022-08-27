@@ -4,7 +4,7 @@ A curated list of awesome Diffusion notebooks, tools, software, tutorials and re
 
 - [Awesome Diffusion](#awesome-diffusion)
     - [Colab Notebooks](#colab-notebooks)
-    - [Repos](#diffusion-models)
+    - [Diffusion Models](#diffusion-models)
     - [Prompt Engineering](#prompt-engineering)
     - [Tools](#tools)
     - [Tutorials](#tutorials)

@@ -4,7 +4,7 @@ A curated list of awesome Diffusion notebooks, tools, software, tutorials and re
 
 - [Awesome Diffusion](#awesome-diffusion)
     - [Colab Notebooks](#colab-notebooks)
-    - [Repos](#repos)
+    - [Repos](#diffusion-models)
     - [Prompt Engineering](#prompt-engineering)
     - [Tools](#tools)
     - [Tutorials](#tutorials)
@@ -21,9 +21,7 @@ A curated list of awesome Diffusion notebooks, tools, software, tutorials and re
 * [Simplified Disco Diffusion](https://colab.research.google.com/github/entmike/disco-diffusion-1/blob/main/Simplified_Disco_Diffusion.ipynb) - description will be defined
 * [Centipede Diffusion](https://colab.research.google.com/github/Zalring/Centipede_Diffusion/blob/main/Centipede_Diffusion.ipynb) - description will be defined
 
-
-
-## Repos
+## Diffusion Models
 * [disco-diffusion](https://github.com/alembics/disco-diffusion) - description will be defined
 * [stable-diffusion](https://github.com/CompVis/stable-diffusion) - description will be defined
 * [latent-diffusion](https://github.com/CompVis/latent-diffusion) - High-Resolution Image Synthesis with Latent Diffusion Models

@@ -38,6 +38,7 @@ A curated list of awesome Diffusion notebooks, tools, software, tutorials and re
 
 ## Tools
 * [flowframes](https://github.com/n00mkrad/flowframes) - Flowframes Windows GUI for video interpolation using DAIN (NCNN) or RIFE (CUDA/NCNN)
+* [GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 * [diffusers](https://github.com/huggingface/diffusers) - State-of-the-art diffusion models for image and audio generation in PyTorch
 * [real-esrgan](https://github.com/xinntao/Real-ESRGAN) - Real-ESRGAN aims at developing Practical Algorithms for General Image/Video Restoration.
 * [discoart](https://github.com/jina-ai/discoart) - Create Disco Diffusion artworks in one line

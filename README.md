@@ -44,6 +44,7 @@ A curated list of awesome Diffusion notebooks, tools, software, tutorials and re
 * [discoart](https://github.com/jina-ai/discoart) - Create Disco Diffusion artworks in one line
 * [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai) - description will be defined
 * [chaiNNer](https://github.com/joeyballentine/chaiNNer) - A flowchart/node-based image processing GUI aimed at making chaining image processing tasks (especially those done by neural networks) easy, intuitive, and customizable.
+* [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - Route image-generation prompts to 30+ models — DALL-E, Stable Diffusion, Flux, Midjourney, and more — through a single CLI and MCP interface. `npm install -g prompt-to-asset`
 
 
 ## Tutorials

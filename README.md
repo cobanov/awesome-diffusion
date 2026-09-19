@@ -7,6 +7,7 @@ A curated list of awesome Diffusion notebooks, tools, software, tutorials and re
     - [Diffusion Models](#diffusion-models)
     - [Prompt Engineering](#prompt-engineering)
     - [Tools](#tools)
+    - [Benchmarks](#benchmarks)
     - [Tutorials](#tutorials)
     - [Papers](#papers)
     - [Discord Channels](#discord-channels)
@@ -46,6 +47,9 @@ A curated list of awesome Diffusion notebooks, tools, software, tutorials and re
 * [chaiNNer](https://github.com/joeyballentine/chaiNNer) - A flowchart/node-based image processing GUI aimed at making chaining image processing tasks (especially those done by neural networks) easy, intuitive, and customizable.
 * [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - Route image-generation prompts to 30+ models (DALL-E, Stable Diffusion, Flux, Midjourney) through a single CLI and MCP interface
 
+
+## Benchmarks
+* [ImageBench V1](https://imagebench.ai/imagebench-v1) - Prompt-adherence leaderboard across 60+ frontier text-to-image models (Flux 2, Seedream V4, Nano Banana Pro, Imagen 4 Ultra, Qwen Image 2.0, and more). Same prompts run on every model, judged by a VLM panel; public [methodology](https://imagebench.ai/imagebench-v1/methodology) and side-by-side [head-to-head comparisons](https://imagebench.ai/imagebench-v1/compare).
 
 ## Tutorials
 * [Zippy's Disco Diffusion Cheatsheet v0.3](https://docs.google.com/document/d/1l8s7uS2dGqjztYSjPpzlmXLjl5PM3IGkRWI3IiCuK7g/mobilebasic) - description will be defined

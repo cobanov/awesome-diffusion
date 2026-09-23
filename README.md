@@ -38,6 +38,7 @@ A curated list of awesome Diffusion notebooks, tools, software, tutorials and re
 * [Disco Diffusion 70+ Artist Studies](https://weirdwonderfulai.art/resources/disco-diffusion-70-plus-artist-studies/#Martin-Johnson-Heade) - This blog post is a collection of artist studies done using Disco Diffusion put together (sourced from Twitter) in one place to help you understand what kind of result you would get using a specific artists name.
 
 ## Tools
+- [ComfyUI-SuperL8](https://github.com/jajmangold/ComfyUI-superl8) - INT8 quantized diffusion nodes for ComfyUI with per-layer SQNR accuracy gating. Supports Z-Image, FLUX.1, LTX-2.3, and more.
 * [flowframes](https://github.com/n00mkrad/flowframes) - Flowframes Windows GUI for video interpolation using DAIN (NCNN) or RIFE (CUDA/NCNN)
 * [GFPGAN](https://github.com/TencentARC/GFPGAN) - GFPGAN aims at developing Practical Algorithms for Real-world Face Restoration.
 * [diffusers](https://github.com/huggingface/diffusers) - State-of-the-art diffusion models for image and audio generation in PyTorch

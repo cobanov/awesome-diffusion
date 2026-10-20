@@ -46,6 +46,7 @@ A curated list of awesome Diffusion notebooks, tools, software, tutorials and re
 * [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai) - description will be defined
 * [chaiNNer](https://github.com/joeyballentine/chaiNNer) - A flowchart/node-based image processing GUI aimed at making chaining image processing tasks (especially those done by neural networks) easy, intuitive, and customizable.
 * [prompt-to-asset](https://github.com/MohamedAbdallah-14/prompt-to-asset) - Route image-generation prompts to 30+ models (DALL-E, Stable Diffusion, Flux, Midjourney) through a single CLI and MCP interface
+* [ImageLoom](https://github.com/elapen/imageloom) - Local image studio for Mac on stable-diffusion.cpp: chat-style generation, brush-mask editing, Real-ESRGAN upscaling and PNG/WebP/SVG export
 
 
 ## Benchmarks

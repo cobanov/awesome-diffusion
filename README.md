@@ -36,6 +36,7 @@ A curated list of awesome Diffusion notebooks, tools, software, tutorials and re
 * [Stable Diffusion Modifier Studies](https://proximacentaurib.notion.site/2b07d3195d5948c6a7e5836f9d535592?v=b5b75a67cc52483c9965cfc141f6f582) - description will be defined
 * [Disco Diffusion Portrait Study](https://docs.google.com/document/d/1Ff8s8CX3xGrVr6AJ94hcvQ_PYqJ_mDAXzT3NGb5_K1w/edit#heading=h.hof9pq7i5m0) - A foundation to build more coherent faces/portraits from, and an evolving study for prompt permutations and modifiers
 * [Disco Diffusion 70+ Artist Studies](https://weirdwonderfulai.art/resources/disco-diffusion-70-plus-artist-studies/#Martin-Johnson-Heade) - This blog post is a collection of artist studies done using Disco Diffusion put together (sourced from Twitter) in one place to help you understand what kind of result you would get using a specific artists name.
+* [Prompt Generator](https://trypromptgenerator.com) - Writes image prompts for Stable Diffusion, FLUX, Midjourney, Nano Banana, GPT Image and Seedream from a description or an uploaded picture (image to prompt). Free daily allowance, no sign-up.
 
 ## Tools
 * [flowframes](https://github.com/n00mkrad/flowframes) - Flowframes Windows GUI for video interpolation using DAIN (NCNN) or RIFE (CUDA/NCNN)

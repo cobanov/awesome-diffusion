@@ -54,6 +54,7 @@ A curated list of awesome Diffusion notebooks, tools, software, tutorials and re
 
 ## Tutorials
 * [Zippy's Disco Diffusion Cheatsheet v0.3](https://docs.google.com/document/d/1l8s7uS2dGqjztYSjPpzlmXLjl5PM3IGkRWI3IiCuK7g/mobilebasic) - description will be defined
+* [Local AI image model VRAM guide](https://www.nano-banana.live/blog/local-ai-image-model-vram-requirements.html) - How much VRAM open-weight image models such as HunyuanImage 3.0, Qwen-Image-Edit and FLUX-class checkpoints need, and how precision and CPU offloading change the numbers.
 
 ## Papers
 
